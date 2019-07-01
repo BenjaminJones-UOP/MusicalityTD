@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{6B27F319-C680-02F2-FAAC-848D9615D0B1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Turret.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Enemy.cs" Line="18" Column="25" />
+      <File FileName="Assets/Scripts/NodeUI.cs" Line="13" Column="22" />
+      <File FileName="Assets/Scripts/BuildManager.cs" Line="14" Column="19" />
+      <File FileName="Assets/Scripts/PlayerStats.cs" Line="19" Column="14" />
+      <File FileName="Assets/Scripts/MoneyUI.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/TurretBlueprint.cs" Line="18" Column="2" />
+      <File FileName="Assets/Scripts/Turret.cs" Line="53" Column="41" />
+      <File FileName="Assets/Scripts/Bullet.cs" Line="51" Column="42" />
+      <File FileName="Assets/Scripts/Shop.cs" Line="34" Column="2" />
+      <File FileName="Assets/Scripts/SceneFader.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PauseMenu.cs" Line="42" Column="60" />
+      <File FileName="Assets/Scripts/CompleteLevel.cs" Line="13" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="41" Column="60" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="95" Column="9" />
+      <File FileName="Assets/Scripts/Node.cs" Line="46" Column="9" />
+      <File FileName="Assets/Scripts/Music.cs" Line="20" Column="58" />
+      <File FileName="Assets/Scripts/WaveSpawner.cs" Line="30" Column="4" />
+      <File FileName="Assets/Scripts/Wave.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MainMenu.cs" Line="20" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
